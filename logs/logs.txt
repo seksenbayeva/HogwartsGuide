@@ -1,0 +1,127 @@
+---------------------------- PROCESS STARTED (6377) for package com.example.hogwartsguide ----------------------------
+2026-10-12 215954.076  6377-6377  MainActivity            com.example.hogwartsguide            D  onCreate start screen created
+2026-10-12 215954.079  6377-6377  MainActivity            com.example.hogwartsguide            D  onStart start screen is visible
+2026-10-12 215954.083  6377-6377  MainActivity            com.example.hogwartsguide            D  onResume ready for name input
+2026-10-12 215954.155  6377-6377  VRI[MainActivity]       com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220008.173  6377-6377  MainActivity            com.example.hogwartsguide            I  Opening the spellbook
+2026-10-12 220008.223  6377-6377  MainActivity            com.example.hogwartsguide            D  onPause start screen is losing focus
+2026-10-12 220008.260  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onCreate spellbook screen created
+2026-10-12 220008.264  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onStart spellbook is visible
+2026-10-12 220008.270  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onResume ready to browse spells
+2026-10-12 220008.287  6377-6377  VRI[SpellbookActivity]  com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220008.960  6377-6377  VRI[MainActivity]       com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220008.987  6377-6377  MainActivity            com.example.hogwartsguide            D  onStop start screen is no longer visible
+2026-10-12 220009.799  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Spell selected Accio
+2026-10-12 220010.716  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Spell selected Reparo
+2026-10-12 220011.615  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Spell selected Wingardium Leviosa
+2026-10-12 220012.765  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Spell selected Lumos
+2026-10-12 220014.068  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Returning from the spellbook
+2026-10-12 220014.091  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onPause spellbook is losing focus
+2026-10-12 220014.102  6377-6377  MainActivity            com.example.hogwartsguide            D  onStart start screen is visible
+2026-10-12 220014.102  6377-6377  MainActivity            com.example.hogwartsguide            D  onResume ready for name input
+2026-10-12 220014.702  6377-6377  VRI[SpellbookActivity]  com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220014.731  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onStop spellbook is no longer visible
+2026-10-12 220014.735  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onDestroy spellbook closed
+2026-10-12 220019.163  6377-6377  MainActivity            com.example.hogwartsguide            I  Opening the spellbook
+2026-10-12 220019.193  6377-6377  MainActivity            com.example.hogwartsguide            D  onPause start screen is losing focus
+2026-10-12 220019.228  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onCreate spellbook screen created
+2026-10-12 220019.229  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onStart spellbook is visible
+2026-10-12 220019.231  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onResume ready to browse spells
+2026-10-12 220019.245  6377-6377  VRI[SpellbookActivity]  com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220019.894  6377-6377  VRI[MainActivity]       com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220019.919  6377-6377  MainActivity            com.example.hogwartsguide            D  onStop start screen is no longer visible
+2026-10-12 220021.537  6377-6377  SpellbookActivity       com.example.hogwartsguide            I  Returning from the spellbook
+2026-10-12 220021.553  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onPause spellbook is losing focus
+2026-10-12 220021.564  6377-6377  MainActivity            com.example.hogwartsguide            D  onStart start screen is visible
+2026-10-12 220021.564  6377-6377  MainActivity            com.example.hogwartsguide            D  onResume ready for name input
+2026-10-12 220022.163  6377-6377  VRI[SpellbookActivity]  com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220022.183  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onStop spellbook is no longer visible
+2026-10-12 220022.186  6377-6377  SpellbookActivity       com.example.hogwartsguide            D  onDestroy spellbook closed
+2026-10-12 220022.845  6377-6377  MainActivity            com.example.hogwartsguide            I  Opening the Hogwarts quiz
+2026-10-12 220022.875  6377-6377  MainActivity            com.example.hogwartsguide            D  onPause start screen is losing focus
+2026-10-12 220022.896  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onCreate quiz screen created
+2026-10-12 220022.923  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onStart quiz is visible
+2026-10-12 220022.924  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onResume ready to answer
+2026-10-12 220022.938  6377-6377  VRI[Hogwar...zActivity] com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220023.581  6377-6377  VRI[MainActivity]       com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220023.588  6377-6377  MainActivity            com.example.hogwartsguide            D  onStop start screen is no longer visible
+2026-10-12 220026.732  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            I  Answer selected Lumos; correct true
+2026-10-12 220028.234  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            I  Quiz restarted
+2026-10-12 220029.393  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            I  Returning from the quiz
+2026-10-12 220029.410  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onPause quiz is losing focus
+2026-10-12 220029.429  6377-6377  MainActivity            com.example.hogwartsguide            D  onStart start screen is visible
+2026-10-12 220029.429  6377-6377  MainActivity            com.example.hogwartsguide            D  onResume ready for name input
+2026-10-12 220030.014  6377-6377  VRI[Hogwar...zActivity] com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220030.029  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onStop quiz is no longer visible
+2026-10-12 220030.030  6377-6377  HogwartsQuizActivity    com.example.hogwartsguide            D  onDestroy quiz closed
+2026-10-12 220035.299  6377-6377  MainActivity            com.example.hogwartsguide            I  Opening the house list for Angelina
+2026-10-12 220035.332  6377-6377  MainActivity            com.example.hogwartsguide            D  onPause start screen is losing focus
+2026-10-12 220035.356  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onCreate house list created
+2026-10-12 220035.363  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStart house list is visible
+2026-10-12 220035.366  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onResume ready to choose a house
+2026-10-12 220035.385  6377-6377  VRI[HouseListActivity]  com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220036.029  6377-6377  VRI[MainActivity]       com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220036.056  6377-6377  MainActivity            com.example.hogwartsguide            D  onStop start screen is no longer visible
+2026-10-12 220037.576  6377-6377  HouseListActivity       com.example.hogwartsguide            I  House selected gryffindor
+2026-10-12 220037.605  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onPause house list is losing focus
+2026-10-12 220037.645  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onCreate house details created
+2026-10-12 220037.645  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Showing Гриффиндор details for Angelina
+2026-10-12 220037.645  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStart house details are visible
+2026-10-12 220037.649  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onResume house details are ready to read
+2026-10-12 220037.670  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220038.280  6377-6377  VRI[HouseListActivity]  com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220038.300  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStop house list is no longer visible
+2026-10-12 220039.253  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Returning to the house list
+2026-10-12 220039.272  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onPause house details are losing focus
+2026-10-12 220039.281  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStart house list is visible
+2026-10-12 220039.281  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onResume ready to choose a house
+2026-10-12 220039.879  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220039.899  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStop house details are no longer visible
+2026-10-12 220039.902  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onDestroy house details closed
+2026-10-12 220040.502  6377-6377  HouseListActivity       com.example.hogwartsguide            I  House selected slytherin
+2026-10-12 220040.528  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onPause house list is losing focus
+2026-10-12 220040.549  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onCreate house details created
+2026-10-12 220040.549  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Showing Слизерин details for Angelina
+2026-10-12 220040.550  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStart house details are visible
+2026-10-12 220040.552  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onResume house details are ready to read
+2026-10-12 220040.576  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220041.168  6377-6377  VRI[HouseListActivity]  com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220041.198  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStop house list is no longer visible
+2026-10-12 220042.038  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Returning to the house list
+2026-10-12 220042.055  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onPause house details are losing focus
+2026-10-12 220042.063  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStart house list is visible
+2026-10-12 220042.064  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onResume ready to choose a house
+2026-10-12 220042.664  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220042.680  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStop house details are no longer visible
+2026-10-12 220042.680  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onDestroy house details closed
+2026-10-12 220043.285  6377-6377  HouseListActivity       com.example.hogwartsguide            I  House selected ravenclaw
+2026-10-12 220043.314  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onPause house list is losing focus
+2026-10-12 220043.332  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onCreate house details created
+2026-10-12 220043.333  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Showing Когтевран details for Angelina
+2026-10-12 220043.334  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStart house details are visible
+2026-10-12 220043.340  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onResume house details are ready to read
+2026-10-12 220043.360  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220043.980  6377-6377  VRI[HouseListActivity]  com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220044.008  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStop house list is no longer visible
+2026-10-12 220044.614  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Returning to the house list
+2026-10-12 220044.636  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onPause house details are losing focus
+2026-10-12 220044.653  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStart house list is visible
+2026-10-12 220044.653  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onResume ready to choose a house
+2026-10-12 220045.244  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220045.270  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStop house details are no longer visible
+2026-10-12 220045.275  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onDestroy house details closed
+2026-10-12 220045.856  6377-6377  HouseListActivity       com.example.hogwartsguide            I  House selected hufflepuff
+2026-10-12 220045.893  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onPause house list is losing focus
+2026-10-12 220045.925  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onCreate house details created
+2026-10-12 220045.930  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Showing Пуффендуй details for Angelina
+2026-10-12 220045.932  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStart house details are visible
+2026-10-12 220045.938  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onResume house details are ready to read
+2026-10-12 220045.966  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  WindowInsets changed 1080x2400 statusBars[0,136,0,0] navigationBars[0,0,0,63] mandatorySystemGestures[0,168,0,84] 
+2026-10-12 220046.587  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStop house list is no longer visible
+2026-10-12 220047.622  6377-6377  HouseDetailActivity     com.example.hogwartsguide            I  Returning to the house list
+2026-10-12 220047.642  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onPause house details are losing focus
+2026-10-12 220047.663  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onStart house list is visible
+2026-10-12 220047.664  6377-6377  HouseListActivity       com.example.hogwartsguide            D  onResume ready to choose a house
+2026-10-12 220048.244  6377-6377  VRI[HouseD...lActivity] com.example.hogwartsguide            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-12 220048.268  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onStop house details are no longer visible
+2026-10-12 220048.274  6377-6377  HouseDetailActivity     com.example.hogwartsguide            D  onDestroy house details closed

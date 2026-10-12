@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent" android:background="@color/ink" android:padding="@dimen/screen_padding">
+    <ScrollView android:id="@+id/detailScroll" android:layout_width="match_parent" android:layout_height="match_parent"
+        android:layout_above="@id/btnBack" android:fillViewport="true">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+            <TextView android:id="@+id/tvDetailEyebrow" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="@string/detail_eyebrow" android:textColor="@color/gold" android:textSize="@dimen/label_size" android:letterSpacing="0.16" />
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="22dp"
+                android:gravity="center_vertical" android:orientation="horizontal">
+                <TextView android:id="@+id/tvHouseIcon" android:layout_width="76dp" android:layout_height="76dp"
+                    android:gravity="center" android:background="@drawable/bg_icon" android:textSize="38sp" android:contentDescription="@string/house_icon_description" />
+                <TextView android:id="@+id/tvHouseName" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"
+                    android:layout_marginStart="18dp" android:textColor="@color/cream" android:textSize="28sp" android:textStyle="bold" />
+            </LinearLayout>
+            <TextView android:id="@+id/tvWelcome" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="20dp" android:textColor="@color/gold" android:textSize="17sp" />
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="22dp"
+                android:padding="20dp" android:orientation="vertical" android:background="@drawable/bg_card">
+                <TextView android:text="@string/about_title" android:textColor="@color/gold" android:textSize="14sp" android:textStyle="bold"
+                    android:layout_width="match_parent" android:layout_height="wrap_content" />
+                <TextView android:id="@+id/tvAbout" android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp" android:textColor="@color/cream" android:textSize="@dimen/body_size" android:lineSpacingExtra="3dp" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp"
+                    android:text="@string/traits_title" android:textColor="@color/gold" android:textSize="14sp" android:textStyle="bold" />
+                <TextView android:id="@+id/tvTraits" android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp" android:textColor="@color/cream" android:textSize="15sp" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp"
+                android:padding="18dp" android:orientation="vertical" android:background="@drawable/bg_card">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/founder_title"
+                    android:textColor="@color/muted" android:textSize="13sp" />
+                <TextView android:id="@+id/tvFounder" android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp" android:textColor="@color/cream" android:textSize="16sp" android:textStyle="bold" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:text="@string/mascot_title"
+                    android:textColor="@color/muted" android:textSize="13sp" />
+                <TextView android:id="@+id/tvMascot" android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp" android:textColor="@color/cream" android:textSize="16sp" android:textStyle="bold" />
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:text="@string/common_room_title"
+                    android:textColor="@color/muted" android:textSize="13sp" />
+                <TextView android:id="@+id/tvCommonRoom" android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp" android:textColor="@color/cream" android:textSize="16sp" android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <Button android:id="@+id/btnBack" android:layout_width="match_parent" android:layout_height="56dp"
+        android:layout_alignParentBottom="true" android:layout_marginTop="12dp" android:background="@drawable/bg_button"
+        android:text="@string/back_button" android:textColor="@color/ink" android:textAllCaps="false" android:textStyle="bold" />
+</RelativeLayout>
